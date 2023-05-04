@@ -1,4 +1,4 @@
-# 🤖 AI Powered Summarizer 🤖   ....Built by Humans
+# ➤ 🤖 AI Powered Summarizer 🤖   ....Built by Humans
     
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
@@ -10,7 +10,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## Description 👀
+## ➤ Description 👀
 
 AI-powered summarizer is a tool that uses artificial intelligence and natural language processing techniques to analyze a piece of text and generate a condensed summary of the most important information contained within it.
 
@@ -20,7 +20,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
 
-## Installation
+## ➤ Installation
 
   - Zip Method
   
@@ -46,7 +46,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        
     [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)   
        
-## Use 🎓
+## ➤ Use 🎓
 
 One of the benefits of this AI-powered summarizer is that it can save time and increase efficiency by quickly generating a concise summary that captures the main points of the text. This can be especially helpful for busy professionals who need to stay informed but don't have the time to read through lengthy articles or reports.
 Additionally, an AI-powered summarizer can help to improve accessibility by providing a condensed version of the content that is easier to understand for people with reading difficulties or language barriers.
@@ -54,7 +54,7 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
 
-## Features
+## ➤ Features
 
   -  Summarize whole web pages straight from urls to a set number of paragraphs currently set to 3 for testing
   -  Last 5 user searches stored with a copy feature for better UI experience (may increase to 10)
@@ -63,7 +63,7 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
   
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
   
-## Screenshots
+## ➤ Screenshots
 
 [Logo Favicon](https://user-images.githubusercontent.com/125808990/235516447-32618de8-2cf4-4746-8a6e-3d5dcfd734e2.png)
 
@@ -89,14 +89,14 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
 
 
-## Open AI 🎯
+## ➤ Open AI 🎯
 
 OpenAI is a research organization dedicated to advancing artificial intelligence in a safe and beneficial way for humanity. They develop cutting-edge AI technologies and tools, such as language models, robotics, and reinforcement learning algorithms, with the goal of creating positive impact across various industries and applications. OpenAI also emphasizes open collaboration and transparency, sharing their research and findings with the broader community to accelerate progress in the field.
 
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#openai)
-## React ✅
+## ➤ React ✅
 
 React is a popular JavaScript library for building user interfaces. There are many additional libraries and tools available in the React ecosystem that can be used to enhance the development experience and add functionality to React applications.
 
@@ -112,7 +112,7 @@ These are just a few of the many libraries and tools available in the React ecos
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#react)
-## Node.js 🔥
+## ➤ Node.js 🔥
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. It is built on top of the Google V8 JavaScript engine and provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable network applications. With Node.js, developers can use JavaScript on both the front-end and the back-end of web applications, making it a popular choice for full-stack development. Node.js has a vast ecosystem of modules and packages available through npm (Node Package Manager), making it easy to add functionality and extend its capabilities. Node.js is widely used for building web servers, command-line tools, desktop applications, and more.
 
@@ -123,20 +123,20 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that a
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#nodejs)
 
-## Vite.js 🦾
+## ➤ Vite.js 🦾
 
 Vite.js is a modern build tool and web development server that is designed to optimize the development experience for modern web applications. It leverages the native ES modules feature in modern browsers to enable fast, on-demand compilation of code during development, making the build process much faster and more efficient. Vite.js is often used in conjunction with modern web frameworks like Vue.js or React, but it can also be used as a standalone tool for building web applications. Overall, Vite.js is a lightweight and powerful tool that can greatly improve the development workflow for modern web applications.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vitejs)
 
-## Tailwind CSS 📲
+## ➤ Tailwind CSS 📲
 
 Tailwind CSS is a utility-first CSS framework that provides a set of pre-defined CSS classes that can be used to quickly and easily style web applications. Unlike other CSS frameworks that have a set of predefined components and styles, Tailwind CSS focuses on providing low-level utility classes that can be composed to create custom designs. This approach allows developers to rapidly create consistent and responsive designs without having to write custom CSS from scratch. Tailwind CSS is highly customizable and flexible, allowing developers to configure and extend the framework to meet their specific needs. Overall, Tailwind CSS is a powerful and efficient tool for creating modern, responsive web applications.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#tailwindcss)
 
-## Rapid API Client - VS Code Extension (Postman not needed) 🤩
+## ➤ Rapid API Client - VS Code Extension (Postman not needed) 🤩
 The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrates Rapid API directly into the VS Code IDE, providing developers with an easy way to discover and use APIs without leaving their code editor. The extension enables developers to search for APIs, preview API documentation and responses, and generate code snippets to integrate APIs into their applications. With the Rapid API extension for VS Code, developers can save time and streamline their workflow by accessing the Rapid API platform directly from their code editor.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#rapidapi-client-vscode-extension)
 
@@ -151,7 +151,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code-extensions)
 
-### Credits
+### ➤ Credits
 
 [Javascript Mastery](https://www.jsmastery.pro/full-stack-web-development-bootcamp) 💯
 
