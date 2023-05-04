@@ -9,6 +9,7 @@
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
 ## Description 👀
 
 AI-powered summarizer is a tool that uses artificial intelligence and natural language processing techniques to analyze a piece of text and generate a condensed summary of the most important information contained within it.
@@ -18,6 +19,33 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
+
+## Installation
+
+  - Zip Method
+  
+       Download zip file to local device and open it 
+       
+       Then open folder your perfered way in Virtual Studo Code IDE
+       
+       Open the intergrated terminal and run the following command:
+       
+       ```
+       npm run dev
+       ```
+       You will see
+       ```
+       Local: http//localhost:(your local host port)
+       ```
+       
+       Click this link to open App on your device
+       
+       Paste in a url hit the enter button and wait for a result to be proccessed (this will take a few seconds)
+       
+       Enjoy!
+       
+    [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)   
+       
 ## Use 🎓
 
 One of the benefits of this AI-powered summarizer is that it can save time and increase efficiency by quickly generating a concise summary that captures the main points of the text. This can be especially helpful for busy professionals who need to stay informed but don't have the time to read through lengthy articles or reports.
@@ -59,30 +87,7 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
-## Installation
 
-  - Zip Method
-  
-       Download zip file to local device and open it 
-       
-       Then open folder your perfered way in Virtual Studo Code IDE
-       
-       Open the intergrated terminal and run the following command:
-       
-       ```
-       npm run dev
-       ```
-       You will see
-       ```
-       Local: http//localhost:(your local host port)
-       ```
-       
-       Click this link to open App on your device
-       
-       Paste in a url hit the enter button and wait for a result to be proccessed (this will take a few seconds)
-       
-       Enjoy!
-       
 
 ## Open AI 🎯
 
