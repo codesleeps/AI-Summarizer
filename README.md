@@ -46,7 +46,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        
     [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)   
        
-## ➤ Use 🎓
+## ➤ Use 🕓
 
 One of the benefits of this AI-powered summarizer is that it can save time and increase efficiency by quickly generating a concise summary that captures the main points of the text. This can be especially helpful for busy professionals who need to stay informed but don't have the time to read through lengthy articles or reports.
 Additionally, an AI-powered summarizer can help to improve accessibility by providing a condensed version of the content that is easier to understand for people with reading difficulties or language barriers.
@@ -54,7 +54,7 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
 
-## ➤ Features
+## ➤ Features ♦︎
 
   -  Summarize whole web pages straight from urls to a set number of paragraphs currently set to 3 for testing
   -  Last 5 user searches stored with a copy feature for better UI experience (may increase to 10)
@@ -63,7 +63,7 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
   
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
   
-## ➤ Screenshots
+## ➤ Screenshots 📸
 
 [Logo Favicon](https://user-images.githubusercontent.com/125808990/235516447-32618de8-2cf4-4746-8a6e-3d5dcfd734e2.png)
 
@@ -141,7 +141,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#rapidapi-client-vscode-extension)
 
 
-## ➤ VS Code - Extensions
+## ➤ VS Code - Extensions 💻
 
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
@@ -151,7 +151,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code-extensions)
 
-### ➤ Credits
+### ➤ Credits ⭐️
 
 [Javascript Mastery](https://www.jsmastery.pro/full-stack-web-development-bootcamp) 💯
 
