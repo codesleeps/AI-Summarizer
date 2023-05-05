@@ -3,6 +3,9 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
+
 
 ![Screenshot 2023-05-01 at 21 15 52](https://user-images.githubusercontent.com/125808990/235523442-53c7d78f-afab-4230-97db-013576fb718b.png)
 
