@@ -43,7 +43,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        
        Click this link to open App on your device
        
-       Paste in a url hit the enter button and wait for a result to be proccessed (this will take a few seconds)
+       Paste in a url hit the enter and wait for a result to be proccessed (this will take a several seconds depending on connection as speed varies)
        
        Enjoy!
        
