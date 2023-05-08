@@ -5,6 +5,34 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
+## ➤  About Me 🚀
+
+# Hi, I'm Code Sleep! 
+
+I'm a front end developer...
+
+
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
 
 
 ![Screenshot 2023-05-01 at 21 15 52](https://user-images.githubusercontent.com/125808990/235523442-53c7d78f-afab-4230-97db-013576fb718b.png)
