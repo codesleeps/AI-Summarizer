@@ -70,7 +70,9 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        ```
        You will see: output below, then click this link to open App on your device
        ```
-       Local: http//localhost:(your local host port)
+       ➜  Local:   http://localhost:5173/
+       ➜  Network: use --host to expose
+       ➜  press h to show help
        ```
        **Paste** in a _url_ hit the **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
 ##  Enjoy!      
