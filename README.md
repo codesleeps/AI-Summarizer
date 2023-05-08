@@ -149,6 +149,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
 - [x] Rapid API Client 🎯
+- [x] GitHub Actions 🆘
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
