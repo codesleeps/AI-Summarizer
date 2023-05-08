@@ -5,6 +5,38 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
+## ➤  About Me 🚀
+
+# Hi, I'm Code Sleep! 
+
+I'm a front end developer...
+
+
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
 
 
 ![Screenshot 2023-05-01 at 21 15 52](https://user-images.githubusercontent.com/125808990/235523442-53c7d78f-afab-4230-97db-013576fb718b.png)
@@ -36,18 +68,14 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        ```
        npm run dev
        ```
-       You will see
+       You will see: output below, then click this link to open App on your device
        ```
        Local: http//localhost:(your local host port)
        ```
+       **Paste** in a _url_ hit the **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
+##  Enjoy!      
        
-       Click this link to open App on your device
-       
-       Paste in a url hit the enter button and wait for a result to be proccessed (this will take a few seconds)
-       
-       Enjoy!
-       
-    [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)   
+ [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
        
 ## ➤ Use 🕓
 
@@ -149,6 +177,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
 - [x] Rapid API Client 🎯
+- [x] GitHub Actions 🆘
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
@@ -174,5 +203,6 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 - [React](https://react.dev)
 - [Rapid API](https://rapidapi.com)
 - [Tailwind CSS](https://tailwindcss.com)
+- [GitHub Actions](https://github.com/features/actions)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
