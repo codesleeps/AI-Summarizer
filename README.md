@@ -74,7 +74,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        ➜  Network: use --host to expose
        ➜  press h to show help
        ```
-       Once opened **Paste** in a _url_ hit the **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
+       Once opened **Paste** in a _url_ hit **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
 ##  Enjoy!      
        
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
