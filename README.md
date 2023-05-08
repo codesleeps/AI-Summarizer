@@ -36,13 +36,10 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        ```
        npm run dev
        ```
-       You will see
+       You will see: output below, then click this link to open App on your device
        ```
        Local: http//localhost:(your local host port)
        ```
-       
-       Click this link to open App on your device
-       
        Paste in a url hit the enter and wait for a result to be proccessed (this will take a several seconds depending on connection as speed varies)
 ##  Enjoy!      
        
