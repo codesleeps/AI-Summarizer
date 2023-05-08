@@ -7,13 +7,14 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
 
-## ➤  About Me 🚀![logo001](https://user-images.githubusercontent.com/125808990/236807257-200dc4ce-04b3-4c87-b5c4-b666d39c4950.png)
+## ➤  About Me 🚀
 
 
 # Hi, I'm Code Sleep! 
 
 I'm a front end developer...
 
+![alt text](https://user-images.githubusercontent.com/125808990/236807257-200dc4ce-04b3-4c87-b5c4-b666d39c4950.png)
 
 👩‍💻 I'm currently working on...
 
