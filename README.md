@@ -14,7 +14,9 @@
 
 I'm a front end developer...
 
-![alt text](https://user-images.githubusercontent.com/125808990/236807257-200dc4ce-04b3-4c87-b5c4-b666d39c4950.png)
+
+![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
+
 
 👩‍💻 I'm currently working on...
 
