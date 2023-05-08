@@ -40,7 +40,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        ```
        Local: http//localhost:(your local host port)
        ```
-       Paste in a url hit the enter and wait for a result to be proccessed (this will take a several seconds depending on connection as speed varies)
+       **Paste** in a _url_ hit the **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
 ##  Enjoy!      
        
     [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)   
