@@ -12,27 +12,27 @@
 
 # Hi, I'm Code Sleep! 
 
-I'm a front end developer...
+I'm a front end designer...
 
 
 ![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
 
 
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on...React 
 
-🧠 I'm currently learning...
+🧠 I'm currently learning...Python MongoDB PHP
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with...github actions
 
-💬 Ask me about...
+💬 Ask me about...Travel, manufacturing or design
 
-📫 How to reach me...
+📫 How to reach me...links below
 
 😄 Pronouns...
 
-⚡️ Fun fact...
+⚡️ Fun fact...keep smiling 🤖
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
