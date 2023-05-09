@@ -20,7 +20,7 @@ I'm a front end designer...
 
 👩‍💻 I'm currently working on...React 
 
-🧠 I'm currently learning...Python MongoDB PHP
+🧠 I'm currently learning...Python  MongoDB  PHP
 
 👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
