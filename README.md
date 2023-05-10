@@ -1,8 +1,5 @@
 # ➤ 🤖 AI Powered Summarizer 🤖   ....Built by Humans
 
-![rainbow](https://github.com/codesleeps/AI-Summarizer/assets/125808990/0a25ef9f-737b-4ffc-b099-a5387363bbdd)
-
-
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
