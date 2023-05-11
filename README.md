@@ -4,7 +4,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
+
 
 ## ➤  About Me 🚀
 
@@ -38,7 +40,7 @@ I'm a front end designer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 
 
@@ -46,7 +48,8 @@ I'm a front end designer...
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
+
 
 ## ➤ Description 👀
 
@@ -56,7 +59,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Installation
 
@@ -80,7 +83,7 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        Once opened **Paste** in a _url_ hit **enter** and wait for a _result_ to be proccessed (this will take a several seconds depending on connection as speed varies)
 ##  Enjoy!      
        
- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#description)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
        
 ## ➤ Use 🕓
 
@@ -88,7 +91,7 @@ One of the benefits of this AI-powered summarizer is that it can save time and i
 Additionally, an AI-powered summarizer can help to improve accessibility by providing a condensed version of the content that is easier to understand for people with reading difficulties or language barriers.
 Overall, an AI-powered summarizer is a powerful tool that can help to increase productivity, save time, and improve accessibility. By leveraging the power of artificial intelligence and natural language processing, this technology has the potential to revolutionize the way we consume and process information.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Features ♦︎
 
@@ -97,8 +100,8 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
   -  GitHub button - Repo for detailed description of App and source code
   -  Easy to use
   
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
-  
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
+
 ## ➤ Screenshots 📸
 
 [Logo Favicon](https://user-images.githubusercontent.com/125808990/235516447-32618de8-2cf4-4746-8a6e-3d5dcfd734e2.png)
@@ -122,16 +125,14 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
 [Desktop View](https://user-images.githubusercontent.com/125808990/235520460-e9ac9b10-67cf-4606-aa61-4a2aa4d3d399.png)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#use)
-
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Open AI 🎯
 
 OpenAI is a research organization dedicated to advancing artificial intelligence in a safe and beneficial way for humanity. They develop cutting-edge AI technologies and tools, such as language models, robotics, and reinforcement learning algorithms, with the goal of creating positive impact across various industries and applications. OpenAI also emphasizes open collaboration and transparency, sharing their research and findings with the broader community to accelerate progress in the field.
 
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#openai)
 ## ➤ React ✅
 
 React is a popular JavaScript library for building user interfaces. There are many additional libraries and tools available in the React ecosystem that can be used to enhance the development experience and add functionality to React applications.
@@ -147,7 +148,8 @@ These are just a few of the many libraries and tools available in the React ecos
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#react)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
+
 ## ➤ Node.js 🔥
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. It is built on top of the Google V8 JavaScript engine and provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable network applications. With Node.js, developers can use JavaScript on both the front-end and the back-end of web applications, making it a popular choice for full-stack development. Node.js has a vast ecosystem of modules and packages available through npm (Node Package Manager), making it easy to add functionality and extend its capabilities. Node.js is widely used for building web servers, command-line tools, desktop applications, and more.
@@ -156,26 +158,26 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that a
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#nodejs)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Vite.js 🦾
 
 Vite.js is a modern build tool and web development server that is designed to optimize the development experience for modern web applications. It leverages the native ES modules feature in modern browsers to enable fast, on-demand compilation of code during development, making the build process much faster and more efficient. Vite.js is often used in conjunction with modern web frameworks like Vue.js or React, but it can also be used as a standalone tool for building web applications. Overall, Vite.js is a lightweight and powerful tool that can greatly improve the development workflow for modern web applications.
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vitejs)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Tailwind CSS 📲
 
 Tailwind CSS is a utility-first CSS framework that provides a set of pre-defined CSS classes that can be used to quickly and easily style web applications. Unlike other CSS frameworks that have a set of predefined components and styles, Tailwind CSS focuses on providing low-level utility classes that can be composed to create custom designs. This approach allows developers to rapidly create consistent and responsive designs without having to write custom CSS from scratch. Tailwind CSS is highly customizable and flexible, allowing developers to configure and extend the framework to meet their specific needs. Overall, Tailwind CSS is a powerful and efficient tool for creating modern, responsive web applications.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#tailwindcss)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Rapid API Client - VS Code Extension (Postman not needed) 🤩
-The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrates Rapid API directly into the VS Code IDE, providing developers with an easy way to discover and use APIs without leaving their code editor. The extension enables developers to search for APIs, preview API documentation and responses, and generate code snippets to integrate APIs into their applications. With the Rapid API extension for VS Code, developers can save time and streamline their workflow by accessing the Rapid API platform directly from their code editor.
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#rapidapi-client-vscode-extension)
 
+The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrates Rapid API directly into the VS Code IDE, providing developers with an easy way to discover and use APIs without leaving their code editor. The extension enables developers to search for APIs, preview API documentation and responses, and generate code snippets to integrate APIs into their applications. With the Rapid API extension for VS Code, developers can save time and streamline their workflow by accessing the Rapid API platform directly from their code editor.
+
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ VS Code - Extensions 💻
 
@@ -186,7 +188,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code-extensions)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ### ➤ Credits ⭐️
 
@@ -195,7 +197,7 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 [Dub Links Management](https://dub.sh)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#credits)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
 ## ➤ Additional resources ⚡️
 
@@ -210,4 +212,5 @@ The Rapid API extension for Visual Studio Code (VS Code) is a tool that integrat
 - [Tailwind CSS](https://tailwindcss.com)
 - [GitHub Actions](https://github.com/features/actions)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
+
