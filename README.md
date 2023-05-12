@@ -71,11 +71,11 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        
        Open the intergrated terminal and run the following command:
        
-       ```
+       ``` markdown
        npm run dev
        ```
        You will see: output below, then click this link to open App on your device
-       ```
+       ``` markdown
        ➜  Local:   http://localhost:5173/
        ➜  Network: use --host to expose
        ➜  press h to show help
