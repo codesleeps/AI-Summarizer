@@ -69,12 +69,12 @@ Using advanced algorithms, the AI-powered summarizer identifies the key themes a
        
        Then open folder your perfered way in Virtual Studo Code IDE
        
-       Open the intergrated terminal and run the following command:
+       Open the intergrated terminal and run the following commands one after each other:
        
        ``` markdown
        npm i
        ```
-       
+       then.....
        ``` markdown
        npm run dev
        ```
