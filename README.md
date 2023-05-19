@@ -106,6 +106,17 @@ Overall, an AI-powered summarizer is a powerful tool that can help to increase p
   
 ![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
 
+## Tests - Lighthouse Scores
+
+> Desktop Score
+> 
+> ![desktopCodeSnippets](https://user-images.githubusercontent.com/125808990/224535765-40b36226-02c7-43c9-9ff5-7239925b8b1d.png)
+
+> Mobile Score
+> 
+> ![mobileCodeSnippets](https://user-images.githubusercontent.com/125808990/224535785-14e39345-da99-4d14-99f0-d565bfd57cc5.png)
+
+
 ## ➤ Screenshots 📸
 
 [Logo Favicon](https://user-images.githubusercontent.com/125808990/235516447-32618de8-2cf4-4746-8a6e-3d5dcfd734e2.png)
