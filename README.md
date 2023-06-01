@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ai-Summarizer/count.svg)
 
 
 ![solar](https://github.com/codesleeps/AI-Summarizer/assets/125808990/f5aaa823-5eb6-4fff-813f-e07a5adb6d71)
