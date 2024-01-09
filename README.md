@@ -25,7 +25,7 @@ I'm a front end designer...
 
 👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
-🤔 I'm looking for help with...github actions
+🤔 I'm looking for help with...Python
 
 💬 Ask me about...Travel, manufacturing or design
 
